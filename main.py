@@ -82,4 +82,4 @@ async def kick(ctx, user : discord.User, *, reason="Aucune raison n'a été rens
 
     await ctx.send(embed=em)
 
-bot.run("OTUxNTE0NTAyMTQ5NTk5MjYy.Yiok7w.Atebcr0QzX8bdM18WHeAVoP-nhw")
+bot.run(TOKEN)
